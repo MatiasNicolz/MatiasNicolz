@@ -6,7 +6,7 @@
 <br>
 <div id="Body" align="left">
   <h2> Info ↘</h2>
-  <i><p> 🔭I program in 🔭</p>
+  <i><p> 🔭 I program in 🔭</p>
     <ul>
       <li> C# and C++ </li>
       <li> Visual Basic </li>
